@@ -1,0 +1,26 @@
+{
+    "name": "brackets-razor-language",
+    "title": "Brackets Razor Syntax Highlight",
+    "version": "1.0.0",
+    "description": "Allows syntax highlighting for C# Razor templates",
+    "homepage": "https://github.com/Steamforge/brackets-razor-language",
+    "author": "Josh Studley <josh.studley@gmail.com> (https://github.com/Steamforge/brackets-razor-language)",
+    "license": "MIT",
+    "keywords": [
+        "brackets",
+        "javascript",
+        "syntax",
+        "highlight",
+        "c#",
+        "razor",
+        "template"
+    ],
+    "files": [
+        "main.js",
+        "package.json",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
